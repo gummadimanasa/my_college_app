@@ -1,0 +1,9 @@
+## Abstract
+
+The **My College App** is a mobile application developed using Flutter to provide students with easy access to college-related information. The main objective of this application is to simplify communication between students and the college by providing important academic information in one place.
+
+The application can be used to display college details, announcements, academic information, timetables, and other student-related updates. The user-friendly interface makes the application easy to use and helps students access information quickly. Flutter is used for developing the application, which supports cross-platform development for Android and iOS devices.
+
+The My College App aims to reduce manual communication, save time, and improve the accessibility of college information. This project provides a convenient digital platform for students to stay updated with college activities and academic details.
+
+**Keywords:** Flutter, Mobile Application, College Information, Students, Android, iOS.
